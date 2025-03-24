@@ -1,5 +1,4 @@
 ***
-
 ## Interpretability-Based Multimodal Convolutional Neural Networks for Skin Lesion Diagnosis
 
 #### 1. **Resumo do Artigo** 

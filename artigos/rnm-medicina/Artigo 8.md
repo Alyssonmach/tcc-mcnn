@@ -1,5 +1,4 @@
 ***
-
 ## A Review on Multimodal Medical Image Fusion: Compendious Analysis of Medical Modalities, Multimodal Databases, Fusion Techniques and Quality Metrics
 
 #### 1. **Resumo do Artigo** 

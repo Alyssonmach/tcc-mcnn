@@ -1,5 +1,4 @@
 ***
-
 ## Multimodal medical image fusion algorithm in the era of big data
 
 ### 1. **Resumo do Artigo**  

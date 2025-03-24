@@ -1,5 +1,4 @@
 ***
-
 ## A Dynamic Deep Neural Network for Multimodal Clinical Data Analysis
 
 ### 1. **Resumo do Artigo**  

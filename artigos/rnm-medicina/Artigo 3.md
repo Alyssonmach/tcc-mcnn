@@ -1,5 +1,4 @@
 ***
-
 ## Predicting the Survival of Cancer Patients With Multimodal Graph Neural Network
 
 ### 1. **Resumo do Artigo**  
