@@ -1,4 +1,5 @@
-
+# Principais Bases de Dados
+***
 
 * [CMRxRecon2024](https://pubs.rsna.org/doi/full/10.1148/ryai.240443): A Multimodality, Multiview k-Space Dataset Boosting..." publicado na Radiology: Artificial Intelligence descreve um dataset multimodal de ressonância magnética cardíaca (CMR). A base de dados inclui imagens adquiridas a partir de diferentes modalidades e perspectivas anatômicas, proporcionando um conjunto abrangente para reconstrução e análise de IA. O dataset tem potencial para melhorar a precisão de modelos de reconstrução de imagens médicas.
 
