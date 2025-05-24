@@ -1,0 +1,6 @@
+A partir desses artigo de referência, me gere um relatório de análise que aborte esses 4 pontos:
+
+1. **Resumo do Artigo** – Síntese dos principais pontos abordados, incluindo objetivo, metodologia, resultados e conclusões.  
+2. **Metodologia Utilizada** – Técnicas, modelos e ferramentas aplicadas no estudo.  
+3. **Principais Contribuições** – O que o artigo agrega para a área de pesquisa.
+4. **Limitações e Lacunas** – Pontos fracos, desafios e questões não resolvidas.
